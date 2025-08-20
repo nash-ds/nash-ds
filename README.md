@@ -7,16 +7,8 @@ I’m a Computer Engineering student who spends way too much time poking around 
 - Messing with **ML/AI** until my laptop sounds like it’s about to take flight  
 - Working with databases like **PostgreSQL** and **MySQL**
 
-## Some Stuff I’ve Made
-- 🧘 **Yoga Pose Detection & Correction System** – Real-time feedback using **OpenCV**, **MediaPipe**, and a modular ML approach  
-- 🏦 **Banking App** – Java Swing + MySQL, with accounts, transactions, and balance checks  
-- 🚨 **Disaster Management System** – SOS alerts, live GPS tracking, and disaster news updates  
-
-
 ## What I’m Learning Right Now
 - **Spring Boot** 
-- Leveling up my **DSA** skills
-- Figuring out how to architect applications without overcomplicating them
 - Writing code that doesn’t make me question my life choices later
 - Build something so good that *other people* actually use it (and maybe even like it)
 
