@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nash
 
-I’m a Computer Engineering student who spends way too much time poking around with code, trying out new tech, and occasionally breaking things just to see how they work (don’t worry, I fix them… eventually 😅).
+I’m a Computer Engineering student from Fr Conceicao Rodrigues College of engineering, Bandra.
 
 ## What I do
 - Building small-but-useful web apps with **Java**, **Python**, **Flask**, and **Spring Boot**  
